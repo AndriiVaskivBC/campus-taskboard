@@ -32,14 +32,20 @@ git clone https://github.com/AndriiVaskivBC/campus-taskboard.git
 ```
 
 2. Navigate to the project folder
+```bash
 cd campus-taskboard
+```
 
-3. Run the application:
+4. Run the application:
 On Windows:
+```bash
 mvnw.cmd spring-boot:run
+```
 
 On Mac/Linux:
+```bash
 ./mvnw spring-boot:run
+```
 
 
 4. Open in browser:
